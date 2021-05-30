@@ -1,5 +1,6 @@
 install virtual box
 install vagrant
+vagrant global-status
 vagrant init centos/7
 vagrant up
 vagrant status
