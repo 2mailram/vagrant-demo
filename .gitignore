@@ -1,3 +1,5 @@
+#vagrantbuilddir
+*/.vagrant
 # Prerequisites
 *.d
 
